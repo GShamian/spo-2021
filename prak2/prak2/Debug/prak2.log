@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\sanya\source\repos\prak2\prak2\Main.cpp(196,13): warning C4101: wEndString: неиспользованная локальная переменная
+C:\Users\sanya\source\repos\prak2\prak2\Main.cpp(257,13): warning C4101: wEndString: неиспользованная локальная переменная
+  prak2.vcxproj -> C:\Users\sanya\source\repos\prak2\Debug\prak2.exe
